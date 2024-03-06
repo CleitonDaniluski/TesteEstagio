@@ -1,0 +1,15 @@
+Resolução com apenas duas idas até a sala das lâmpadas.
+
+Primeira ida:
+Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
+Em seguida, desligue-o.
+
+Segunda ida:
+Ligue o segundo interruptor.
+Entre na sala para verificar o estado das lâmpadas.
+
+E essas são as situações possiveis:
+
+Se a lâmpada estiver acesa, o segundo interruptor controla essa lâmpada.
+Se a lâmpada estiver apagada e estiver fria ao toque, então o terceiro interruptor controla essa lâmpada.
+Se a lâmpada estiver apagada, mas estiver quente ao toque, então o primeiro interruptor controla essa lâmpada.

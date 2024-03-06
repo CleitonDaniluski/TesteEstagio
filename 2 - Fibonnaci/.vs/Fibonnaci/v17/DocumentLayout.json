@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cleit\\Desktop\\Teste Est\u00E1gio\\Fibonnaci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D6F32-8BCB-49CE-A171-082DCD0B3414}|Fibonnaci\\Fibonnaci.csproj|c:\\users\\cleit\\desktop\\teste est\u00E1gio\\fibonnaci\\fibonnaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D6F32-8BCB-49CE-A171-082DCD0B3414}|Fibonnaci\\Fibonnaci.csproj|solutionrelative:fibonnaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cleit\\Desktop\\Teste Est\u00E1gio\\Fibonnaci\\Fibonnaci\\Program.cs",
+              "RelativeDocumentMoniker": "Fibonnaci\\Program.cs",
+              "ToolTip": "C:\\Users\\cleit\\Desktop\\Teste Est\u00E1gio\\Fibonnaci\\Fibonnaci\\Program.cs",
+              "RelativeToolTip": "Fibonnaci\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:15:53.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

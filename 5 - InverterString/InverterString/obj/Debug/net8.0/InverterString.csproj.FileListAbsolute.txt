@@ -1,0 +1,14 @@
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\bin\Debug\net8.0\InverterString.exe
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\bin\Debug\net8.0\InverterString.deps.json
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\bin\Debug\net8.0\InverterString.runtimeconfig.json
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\bin\Debug\net8.0\InverterString.dll
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\bin\Debug\net8.0\InverterString.pdb
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\obj\Debug\net8.0\InverterString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\obj\Debug\net8.0\InverterString.AssemblyInfoInputs.cache
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\obj\Debug\net8.0\InverterString.AssemblyInfo.cs
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\obj\Debug\net8.0\InverterString.csproj.CoreCompileInputs.cache
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\obj\Debug\net8.0\InverterString.dll
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\obj\Debug\net8.0\refint\InverterString.dll
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\obj\Debug\net8.0\InverterString.pdb
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\obj\Debug\net8.0\InverterString.genruntimeconfig.cache
+C:\Users\cleit\Desktop\Teste Estágio\InverterString\InverterString\obj\Debug\net8.0\ref\InverterString.dll

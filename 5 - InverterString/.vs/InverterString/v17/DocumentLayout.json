@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cleit\\Desktop\\Teste Est\u00E1gio\\InverterString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC83C69-5266-4F6F-BED8-2EC3A319FFE9}|InverterString\\InverterString.csproj|c:\\users\\cleit\\desktop\\teste est\u00E1gio\\inverterstring\\inverterstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC83C69-5266-4F6F-BED8-2EC3A319FFE9}|InverterString\\InverterString.csproj|solutionrelative:inverterstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cleit\\Desktop\\Teste Est\u00E1gio\\InverterString\\InverterString\\Program.cs",
+              "RelativeDocumentMoniker": "InverterString\\Program.cs",
+              "ToolTip": "C:\\Users\\cleit\\Desktop\\Teste Est\u00E1gio\\InverterString\\InverterString\\Program.cs",
+              "RelativeToolTip": "InverterString\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:31:09.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

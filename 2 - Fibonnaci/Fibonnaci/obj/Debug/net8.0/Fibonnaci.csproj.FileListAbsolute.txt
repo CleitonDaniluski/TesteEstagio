@@ -1,0 +1,14 @@
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\bin\Debug\net8.0\Fibonnaci.exe
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\bin\Debug\net8.0\Fibonnaci.deps.json
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\bin\Debug\net8.0\Fibonnaci.runtimeconfig.json
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\bin\Debug\net8.0\Fibonnaci.dll
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\bin\Debug\net8.0\Fibonnaci.pdb
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\obj\Debug\net8.0\Fibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\obj\Debug\net8.0\Fibonnaci.AssemblyInfoInputs.cache
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\obj\Debug\net8.0\Fibonnaci.AssemblyInfo.cs
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\obj\Debug\net8.0\Fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\obj\Debug\net8.0\Fibonnaci.dll
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\obj\Debug\net8.0\refint\Fibonnaci.dll
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\obj\Debug\net8.0\Fibonnaci.pdb
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\obj\Debug\net8.0\Fibonnaci.genruntimeconfig.cache
+C:\Users\cleit\Desktop\Teste Estágio\Fibonnaci\Fibonnaci\obj\Debug\net8.0\ref\Fibonnaci.dll
